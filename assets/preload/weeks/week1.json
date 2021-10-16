@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Back To Basics", "dad", [146, 113, 253]],
+		["Explained", "dad", [146, 113, 253]],
+		["STOP", "dad", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "heyguystodayweregonnabeexplainingthebobmodfnf",
+
+	"storyName": "What's going on in Vs BlueStopSign",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

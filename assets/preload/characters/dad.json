@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				227,
+				54
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				36,
+				28
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				141,
+				108
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				110,
+				40
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				60
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DADDY_DEAREST",
+	"position": [
+		30,
+		120
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		102,
+		206
+	],
+	"camera_position": [
+		70,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

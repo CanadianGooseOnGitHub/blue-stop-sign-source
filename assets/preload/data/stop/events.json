@@ -1047,7 +1047,29 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						92210.5263157894,
+						-1,
+						"Silly Cam Zooms",
+						"1",
+						""
+					],
+					[
+						92368.4210526315,
+						-1,
+						"Silly Cam Zooms",
+						"1.1",
+						""
+					],
+					[
+						92526.3157894736,
+						-1,
+						"Silly Cam Zooms",
+						"1.2",
+						""
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -1056,7 +1078,29 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						93473.6842105262,
+						-1,
+						"Silly Cam Zooms",
+						"1.1",
+						""
+					],
+					[
+						93631.5789473683,
+						-1,
+						"Silly Cam Zooms",
+						"1",
+						""
+					],
+					[
+						93789.4736842104,
+						-1,
+						"Silly Cam Zooms",
+						"0.9",
+						""
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -1065,7 +1109,50 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						94736.8421052631,
+						-1,
+						"Silly Cam Zooms",
+						"1",
+						""
+					],
+					[
+						94894.7368421052,
+						-1,
+						"Silly Cam Zooms",
+						"1.1",
+						""
+					],
+					[
+						95052.6315789473,
+						-1,
+						"Silly Cam Zooms",
+						"1.2",
+						""
+					],
+					[
+						95210.5263157894,
+						-1,
+						"Silly Cam Zooms",
+						"1.1",
+						""
+					],
+					[
+						95526.3157894736,
+						-1,
+						"Silly Cam Zooms",
+						"1",
+						""
+					],
+					[
+						95842.1052631578,
+						-1,
+						"Silly Cam Zooms",
+						"0.9",
+						""
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -1370,7 +1457,15 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						136894.736842105,
+						-1,
+						"Silly Cam Zooms",
+						"0.9",
+						""
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false

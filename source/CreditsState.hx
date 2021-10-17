@@ -24,6 +24,19 @@ class CreditsState extends MusicBeatState
 	private var iconArray:Array<AttachedSprite> = [];
 
 	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color
+		['Vs BlueStopSign Team'],
+		['BlueStopSign',			'blue',			'Creator, Artist, Cutscene editor',			'https://www.youtube.com/channel/UCo97ByRAUa0bYML1qPxO65g',			0xFF297BFF],
+		['A maze',		            'a_maze',	    'Sprite Artist',						    'https://twitter.com/AmazeinG666',                                	0xFFB9A3F0],
+		['Ikkrine',			        'ikkrine',	    'Composer',				                    'https://twitter.com/RexKuroBlack',			                        0xFF1E2D38],
+		['CanadianGoose',			'goose',		'Coder',							        'https://www.youtube.com/channel/UCfjYxs_8SL1JtL2TqyS-wSg',			0xFFFFA621],
+		['Apollo',			        'apollo',		'Background Artist, Cutscene images',		'https://twitter.com/SandPlanetNG',                          		0xFF52733E],
+		['Fogu',				    'fogu',		    'Charter"',	                                'https://twitter.com/FoguDragon',                               	0xFFFFA8D4],
+		['Ket Overkill',			'ket',		    'Icons',	                                'https://twitter.com/ket_overkill',                             	0xFF61536A],
+		['Inksanity',				'inksanity',	'Girlfriend Voice Actor',	                'https://twitter.com/AInksanity',                               	0xFFFFE6F2],
+		['Zenokwe aka ILuvGemz',	'iluvgems',		'Code contributor',	                        'https://youtube.com/c/ZenokweiAka%E5%8D%83%E3%81%AE%E5%A3%B0',  	0xFF82DEFF],
+		['Aqua',				    'aqua',		    'Code contributor',	                        'https://twitter.com/AquaThatOne',                              	0xFF24572F],
+		['Berker',				    'berker',		'Old sprite Artist',	                    'https://twitter.com/Berker1237',                               	0xFF297BFF],
+		[''],
 		['Psych Engine Team'],
 		['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33],
 		['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		0xFFC30085],

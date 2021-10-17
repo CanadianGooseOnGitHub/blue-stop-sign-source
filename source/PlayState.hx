@@ -2646,7 +2646,7 @@ class PlayState extends MusicBeatState
 					if(FlxTransitionableState.skipNextTransIn) {
 						CustomFadeTransition.nextCamera = null;
 					}
-					MusicBeatState.switchState(new StoryMenuState());
+					MusicBeatState.switchState(new CreditsState());
 
 					// if ()
 					if(!usedPractice) {
@@ -3500,11 +3500,17 @@ class PlayState extends MusicBeatState
 		{
 			if (curStep == 60)
 			{
-				FlxG.camera.flash(FlxColor.RED, 1.2);
+				if (ClientPrefs.flashing)
+				{
+					FlxG.camera.flash(FlxColor.RED, 1.2);
+				}
 			}
 			if (curStep == 1600)
 			{
-				FlxG.camera.flash(FlxColor.RED, 1.2);
+				if (ClientPrefs.flashing)
+				{
+					FlxG.camera.flash(FlxColor.RED, 1.2);
+				}
 			}
 		}
 
